@@ -1,16 +1,22 @@
 # compuational_physics_N2014301020156
-**Personal Information**
 
+**Brief Introduction**
+
+----------
+This repository is built for the Computational Physics course by Prof. Cai from Wuhan University in the autumn semester of 2016. Homework of this course will be contained in the respository. Giving advice and pointing out errors will be appreciated. You can contact me with email at 908517294@qq.com
+
+
+
+**Personal Information**
 
 ----------
 Zijing Jin 靳紫荆
 2014301020156
 Class 1
 
+
+
 **Homework list**
-
- 
-
 
 ----------
 
