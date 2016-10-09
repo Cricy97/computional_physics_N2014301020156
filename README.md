@@ -22,7 +22,7 @@ Class 1
 
  - [x] [Exercise_01: Print your English name](https://github.com/Cricy97/compuational_physics_N2014301020156/blob/master/Exercise_01)
  - [x] [Exercise_02: Let your English name move and let figure spin](https://www.zybuluo.com/Cricy97/note/512154)
- - [ ] [Exercise_03:Chapter1 Problem1.5](https://www.zybuluo.com/Cricy97/note/525299)
+ - [x] [Exercise_03:Chapter1 Problem1.5](https://www.zybuluo.com/Cricy97/note/525299)
  - [ ] [Exercise_04](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_04)
  - [ ] [Exercise_05](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_05)
  - [ ] [Exercise_06](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_06)
