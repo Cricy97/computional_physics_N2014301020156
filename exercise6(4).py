@@ -74,9 +74,6 @@ while t3[-1] <= 60:
 theta_array3 = array(theta3)
 t_array3 = array(t3)
 
-
-
-figure(figsize=(8,6))
 plot(t_array1,theta_array1,label="Force=0.1",linewidth=1,linestyle='-')
 plot(t_array2,theta_array2,label="Force=0.5",linewidth=1,linestyle='-')
 plot(t_array3,theta_array3,label="Force=0.99",linewidth=1,linestyle='-')
