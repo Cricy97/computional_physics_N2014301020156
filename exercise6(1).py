@@ -21,15 +21,17 @@ def Damped(omega0,theta0,q,l,T):#q is related to damping force, while FD and ome
     return motion
 
 #Fig.1.damped pendulum without driving force
-d=Damped(0,0.5,1,1,10)
+d=Damped(0,0.5,0.1,1,15)
+plt.plot(d[2],d[1],linestyle='-',linewidth=1.0,label='q=0.1')
+d=Damped(0,0.5,1,1,15)
 plt.plot(d[2],d[1],linestyle='-',linewidth=1.0,label='q=1')
-d=Damped(0,0.5,3,1,10)
+d=Damped(0,0.5,3,1,15)
 plt.plot(d[2],d[1],linestyle='-',linewidth=1.0,label='q=3')
-d=Damped(0,0.5,9.8**0.5*2,1,10)
+d=Damped(0,0.5,9.8**0.5*2,1,15)
 plt.plot(d[2],d[1],linestyle='-',linewidth=1.0,label='q='+r'$2\sqrt{g/l}$')
-d=Damped(0,0.5,10,1,10)
+d=Damped(0,0.5,10,1,15)
 plt.plot(d[2],d[1],linestyle='-',linewidth=1.0,label='q=10')
-d=Damped(0,0.5,30,1,10)
+d=Damped(0,0.5,30,1,15)
 plt.plot(d[2],d[1],linestyle='-',linewidth=1.0,label='q=30')
 plt.xlim(0,10)
 plt.grid(True,color='k')
