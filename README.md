@@ -28,7 +28,7 @@ Class 1
  - [x] [Exercise_07:Chapter3 Problem3.9 Study of the Pendulum](https://www.zybuluo.com/Cricy97/note/546119)
 课上听老师留的作业是9-14任选一道，而且在老师向网站发布前就做了，做成了9、10题......下面为3.12的粗略补充[Exercise_07:Chapter3 Problem3.12 Chaotic Pendulum](https://www.zybuluo.com/Cricy97/note/557161)
  - [x] [Exercise_08:Chapter3 Nonlinear Pendulum](https://www.zybuluo.com/Cricy97/note/565661)
- - [ ] [Exercise_09](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_08)
+ - [x] [Exercise_09:Chapter3 Stadium billiard](https://www.zybuluo.com/Cricy97/note/573239)
  - [ ] [Exercise_10](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_09)
  - [ ] [Exercise_11](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_10)
  - [ ] [Exercise_12](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_11)
