@@ -30,7 +30,7 @@ Class 1
  - [x] [Exercise_08:Chapter3 Nonlinear Pendulum](https://www.zybuluo.com/Cricy97/note/565661)
  - [x] [Exercise_09:Chapter3 Stadium billiard](https://www.zybuluo.com/Cricy97/note/573239)
  - [x] [Exercise_10:Chapter4 Study of planetary orbit](https://www.zybuluo.com/Cricy97/note/579586)
- - [ ] [Exercise_11](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_10)
+ - [x] [Exercise_11:Chapter4 Hyperion](https://www.zybuluo.com/Cricy97/note/588745)
  - [ ] [Exercise_12](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_11)
  - [ ] [Exercise_13](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_12)
  - [ ] [Exercise_14](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Exercise_13)
