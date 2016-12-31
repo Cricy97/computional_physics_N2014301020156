@@ -32,4 +32,4 @@ Class 1
  - [x] [Exercise_11:Chapter4 Hyperion](https://www.zybuluo.com/Cricy97/note/588745)
  - [x] [Exercise_12:Chapter5 Capacitor problem](https://www.zybuluo.com/Cricy97/note/597373)
  - [x] [Exercise_13:Chapter6 Wave](https://www.zybuluo.com/Cricy97/note/604863)
- - [ ] [Final Project](https://github.com/Cricy97/computional_physics_N2014301020156/blob/master/Final%20Project)
+ - [x] [Final Project:Study of Guitar String](https://www.zybuluo.com/Cricy97/note/611556)
