@@ -1,4 +1,4 @@
-# computional_physics_N2014301020156
+# computational_physics_N2014301020156
 
 **Brief Introduction**
 
